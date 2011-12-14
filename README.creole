@@ -3,9 +3,13 @@
 
 == Bootstrapped by :
 
-1st Task  -> Max
-2nd Task  -> Brandon
-3rd Task  ->
-4th Task  ->
+* 1st Task
+** Max
+* 2nd Task
+** Brandon
+* 3rd Task
+** you
+* 4th Task
+** the person you passed it on to
 
 == Added [ruby-on-rails-fundamentals-at-parisoma] as a email service hook
