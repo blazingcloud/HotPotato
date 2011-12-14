@@ -1,0 +1,2 @@
+class ClosedActivity < Activity
+end
